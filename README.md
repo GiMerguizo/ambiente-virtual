@@ -1,5 +1,5 @@
 # Ambiente Virtual
-Entrega do Ambiente Virtual construído para a AC1 - _Atualizado em 15/09/2023_
+Entrega dos trabalhos da disciplina **Construção de Ambientes Virtuais** - _Atualizado em 05/11/2023_
 <br>
-**Disciplina:** Construção de Ambientes Virtuais
-- Uso da Unity
+- AC1 - individual
+- AC2 - em grupo (Grupo 8)
